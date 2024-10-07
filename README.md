@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Steven!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Aspiring Software Engineer sharing my journey and learnings in Tech<br/>
 👩🏻‍🎓 Studying Data Science at the Indian Institute of Technology, Madras<br/>
 👩🏻‍🎓 Studying Computer Science at the Vellore Institute of Technology, Vellore<br/>
 💭 Currently learning about data analytics and machine learning!<br/>
@@ -26,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stevenittileon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
