@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Steven!!
+# 👋 Hi, I'm Steven!
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and learnings in Tech<br/>
 👩🏻‍🎓 Studying Data Science at the Indian Institute of Technology, Madras (IITM) <br/>
 👩🏻‍🎓 Studying Computer Science at the Vellore Institute of Technology, Vellore (VIT) <br/>
